@@ -1,12 +1,10 @@
 ---
 layout: default
 title: Installing QGIS 3
-nav_order: 5
+nav_order: 1
 ---
 
-<p align="center"><img src="https://i.imgur.com/v8DkyzE.png"></p>
-
-
+# Installing QGIS 3
 
 To install the last version of QGIS 3 you just have to run in your terminal `brew install qgis`. Running this command in your terminal you download and install a precompiled [bottle](https://docs.brew.sh/Bottles) of QGIS 3 build with most of the available options. Check below the options with the bottle is build.
 

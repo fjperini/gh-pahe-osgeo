@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Reporting errors
-nav_order: 99
+nav_order: 2
 ---
+
+# Reporting errors
 
 Whether you are building or not, you can come across an error and the best you can do it report it in the [issues](https://github.com/OSGeo/homebrew-osgeo4mac/issues) section.
 

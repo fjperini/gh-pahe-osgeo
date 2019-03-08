@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Configuration
-nav_order: 2
+title: Developing on QGIS using OSGeo4Mac
+nav_order: 3
 ---
+
+# Developing on QGIS using OSGeo4Mac
 
 In addition to using this tap to install a [QGIS stable formula](https://github.com/OSGeo/homebrew-osgeo4mac/tree/master/Formula), you can also use it to fully set up a development environment for an externally built QGIS from a clone of the current [development (master) branch](https://github.com/qgis/QGIS) of the source code tree.
 

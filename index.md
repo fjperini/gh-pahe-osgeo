@@ -8,13 +8,11 @@ permalink: /
 
 ![](https://github.com/OSGeo/homebrew-osgeo4mac/raw/master/docs/assets/osgeo-logo-brew-rgb.png)
 
-<p align="center"><b>Welcomed to the Homebrew OSGeo wiki.</b></p>
+<p align="center"><b>Welcomed to the Homebrew OSGeo Page for documentation.</b></p>
 
 ------
 
 First, and foremost, please read below.
-
-<p align="center"><img align="center" width="300" src="https://i.imgur.com/GDz0TL1.png"></p>
 
 We are currently doing reforms in the tap trying to improve and make it easier to use it. Our main aim is to generate a QGIS formula that will install a complete QGIS with all the standard plugging, plus some additions, without the need by the end user to build it in their local machine.
 

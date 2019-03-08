@@ -31,7 +31,7 @@
     padding-top: $gutter-spacing * 2;
     padding-bottom: 0;
     flex-direction: column;
-    // border-right: $border $border-color;
+    border-right: $border $border-color;
     align-items: flex-end;
   }
 
@@ -94,7 +94,7 @@
       height: 60px;
       padding-top: $sp-4;
       padding-bottom: $sp-4;
-      // border-bottom: $border $border-color;
+      border-bottom: $border $border-color;
     }
   }
 }

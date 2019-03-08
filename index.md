@@ -1,7 +1,6 @@
 ---
 layout: default
 title: OSGeo
-nav_order: 1
 description: "This is the homebrew's tap for the stable versions of the OSGeo geospatial toolset."
 permalink: /
 ---
